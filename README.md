@@ -1,8 +1,11 @@
 # pet-shop-dapp
 
-is a github repo of a [truffle tutorial](http://truffleframework.com/tutorials/pet-shop)
 
-It is a (work-in-progress) pet adoption website POC using Ethereum testnet as backend.
+![alt text](http://truffleframework.com/tutorials/images/pet-shop/adoption1.jpeg
+ "pet shop screenshot")
+
+
+Pet adoption website POC using Ethereum testnet as backend.
 
 ## Building the project
 
